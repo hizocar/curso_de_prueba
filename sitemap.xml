@@ -16,6 +16,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://github.com/hizocar/curso_de_prueba/class1/</loc>
+         <lastmod>2023-09-07</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://github.com/hizocar/curso_de_prueba/intro/</loc>
          <lastmod>2023-09-07</lastmod>
          <changefreq>daily</changefreq>
