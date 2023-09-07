@@ -68,11 +68,11 @@ theme:
 extra:
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/fralfaro
+      link: https://github.com/hizocar
     - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/in/faam/
     - icon: fontawesome/solid/globe
-      link: https://fralfaro.github.io/portfolio/
+      link: https://fralfaro.github.io/
 
 
 # Plugins
@@ -90,4 +90,6 @@ nav:
     - Manipulación Datos:
         - pandas.ipynb
         - seaborn.ipynb
+    - Clases de prueba:
+        - class1.ipynb
 
